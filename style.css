@@ -9,7 +9,7 @@ html, body {
   width: 66px;
   padding: 20px;
   margin: 0 3px;
-  border: 2px solid black;
+  border: 2px solid rgb(78, 24, 24);
   border-radius: 9px;
   cursor: pointer;
 }
